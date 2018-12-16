@@ -1,0 +1,6 @@
+.DS_Store
+*.o
+bin/*
+!bin/.keep
+obj/*
+!obj/.keep
